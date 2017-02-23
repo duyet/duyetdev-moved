@@ -9,6 +9,7 @@ Move duyetdev.com to duyet.net roadmap.
 | me.duyetdev.com       	| me.duyet.net       	| Duplicated 	| 22/02/2017 	|
 | saveto.co             	| save.duyet.net     	| Done       	| 23/02/2017 	|
 | dev.duyetdev.com      	| dev.duyet.net      	|            	|            	|
+| pthh.lvduit.com       	| pthh.duyet.net     	| Done       	| 23/02/2017 	|
 | sitemap.duyetdev.com  	| sitemap.duyet.net  	|            	|            	|
 | blog.duyetdev.com     	| blog.duyet.net     	|            	|            	|
 | demo.duyetdev.com     	| demo.duyet.net     	|            	|            	|
