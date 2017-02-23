@@ -10,3 +10,7 @@ Move duyetdev.com to duyet.net roadmap.
 | sitemap.duyetdev.com  | sitemap.duyet.net  |            |            |
 | blog.duyetdev.com     | blog.duyet.net     |            |            |
 | demo.duyetdev.com     | demo.duyet.net     |            |            |
+| sql.duyetdev.com      | sql.duyet.net      |            |            |
+| todo.duyetdev.com     | todo.duyet.net     |            |            |
+| aframe.duyetdev.com   |                    | Drop       |            |
+| offline.duyetdev.com  | off.duyet.net      |            |            |
